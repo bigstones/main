@@ -1,6 +1,7 @@
 # memo
 
-## 크롤링 도구
+## 크롤링 라이브러리
+
 python
 
     beautifulsoup
